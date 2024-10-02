@@ -19,4 +19,4 @@ Perform regression analysis to identify the impact of multiple features on home 
 
 Data Source: King County, USA from Kaggle
 
-Link(https://public.tableau.com/shared/935FCTWDX?:display_count=n&:origin=viz_share_link)
+[Link](https://public.tableau.com/shared/935FCTWDX?:display_count=n&:origin=viz_share_link) to Tableau Public
