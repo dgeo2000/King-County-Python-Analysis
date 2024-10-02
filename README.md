@@ -8,6 +8,7 @@ Methodology
 
 Data Cleaning: Handle missing values and outliers.
 Exploratory Data Analysis (EDA): Visualize the data to identify trends and relationships.
+
 Statistical Analysis: Use correlation and regression analysis to quantify relationships between features and prices.
 
 Analysis and Results
