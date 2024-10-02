@@ -11,5 +11,9 @@ Exploratory Data Analysis (EDA): Visualize the data to identify trends and relat
 Statistical Analysis: Use correlation and regression analysis to quantify relationships between features and prices.
 
 Analysis and Results
+
+
 Analyze the correlation between home prices and each of the features.
 Perform regression analysis to identify the impact of multiple features on home prices.
+
+Data Source: King County, USA from Kaggle
